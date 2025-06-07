@@ -1,3 +1,11 @@
+body{
+    align-content: center;
+}
+
+#outer-div{
+    align-content: center;
+}
+
 h3{
     font-size: large;
     font-weight: 800;
@@ -10,6 +18,7 @@ h3{
     width: 301px;
     border: 2px solid black;
     border-radius: 10px;
+    
     
 }
 
