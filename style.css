@@ -1,0 +1,38 @@
+
+
+#calculator {
+    background-color: peachpuff;
+    width: 301px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+
+
+#button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+#display {
+    margin: 10px;
+    width: 90%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 25px;
+    text-align: right;
+     
+}
+
+.button {
+    margin: 3px;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    line-height: 100%;
+    border-radius: 20px;
+    font-weight: 200;
+    
+}
